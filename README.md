@@ -1,4 +1,4 @@
-# Rickroll Clock Face
+# Rickroll Clockface
 
 ![screenshot](screenshot.png)
 
