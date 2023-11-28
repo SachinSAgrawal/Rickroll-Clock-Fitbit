@@ -1,0 +1,9 @@
+<svg>
+  <use id="myAnimation" href="#frames" />
+  <text id="myLabel"></text>
+  <text id="myMonth" />
+  <text id="txtSteps" />
+  <text id="batteryLabel" />
+  <text x="150" y="235" font-family="Tungsten-Medium" fill="white"
+        font-size="22" text-anchor="middle" text-length="64">Never Gonna Give You Up</text> 
+</svg>

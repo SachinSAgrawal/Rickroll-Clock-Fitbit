@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "0ffaacf1-9989-45a9-b3cb-4dae09939616",
+    "appType": "clockface",
+    "appDisplayName": "Rickroll",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_activity",
+      "run_background",
+      "access_calendar"
+    ],
+    "buildTargets": [
+      "meson",
+      "mira",
+      "gemini"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Rickroll"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

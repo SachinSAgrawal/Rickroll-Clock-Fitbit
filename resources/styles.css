@@ -1,0 +1,19 @@
+.background {
+  viewport-fill: black;
+}
+
+#myLabel {
+  font-size: 67; font-family: System-Bold; text-length: 32; text-anchor: start; x: 5%; y: 22%; fill: lightgray;
+}
+
+#myMonth {
+  font-size: 27; font-family: System-Bold; text-length: 32; text-anchor: end; x: 95%; y: 93%; fill: lightgray;
+}
+
+#txtSteps {
+  font-size: 27; font-family: System-Bold; text-length: 32; text-anchor: start; x: 6%; y: 93%; fill: lightgray;
+}
+
+#batteryLabel {
+  font-size: 27; font-family: System-Bold; text-length: 32; text-anchor: end; x: 94%; y: 13%; fill: lightgray;
+}
