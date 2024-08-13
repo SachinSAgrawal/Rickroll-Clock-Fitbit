@@ -6,16 +6,15 @@
 I created this clockface to rickroll people. It is both free and compatible with the Versa, Versa 2, and Versa Lite. It includes the date, the time, your step count, your device’s battery level, and a rickroll GIF.
 
 ## Acknowledgments
-Original Video (Never Gonna Give You Up by Rick Astley): https://www.youtube.com/watch?v=dQw4w9WgXcQ
+The GIF is taken from a segment of Rick Astley's 1987 hit song Never Gonna Give You Up. <br>
+Here is a link to the original video: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ## Usage
 After you have installed this clockface (see below if needed), simply use your watch as you normally would. Everything will update automatically, and the GIF will automatically play.
 
 ## Installation
 This app has been approved in the Fitbit Gallery. The easiest way to install it is to search it in the Fitbit app on your phone and press `Install`. <br>
-
 Here is the link to it: https://gallery.fitbit.com/details/0ffaacf1-9989-45a9-b3cb-4dae09939616 <br>
-
 Alternatively, you can download this repository and sideload it yourself, but I would recommend against doing that.
 
 ## Bugs
